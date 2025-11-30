@@ -1,0 +1,1 @@
+select * from tables where column = column_name;
